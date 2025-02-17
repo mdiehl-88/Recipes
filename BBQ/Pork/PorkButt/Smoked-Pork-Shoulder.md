@@ -1,7 +1,7 @@
 # Smoked Pork Shoulder
 ## Ingredients
 - Favorite Pork Injection
-- Favorite Pork Pork Rub
+- Favorite Pork Butt Rub
 - 1 bottle Stubb's Pork Marinade
 
 ## Method
