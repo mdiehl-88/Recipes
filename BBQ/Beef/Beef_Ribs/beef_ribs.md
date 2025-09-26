@@ -14,11 +14,10 @@
 8. Allow to sit and rest for 1 hour
 
 ### Cook
-1. Heat the smoker to 250* F and maintain the temp throughout the cooking process.
+1. Heat the smoker to 275* F and maintain the temp throughout the cooking process.
 2. Place rested plate of ribs directly on the grate.
-3. At 60 minutes of total cook time, spritz the plate of ribs.
-4. At 75 minutes of total cook time, spritz the plate of ribs.
-5. At 90 minutes of total cook time, spritz the plate of ribs and then remove from the grate, add some beef tallow to the top and wrap the plate of ribs in butcher paper (or foil) pan back on the smoker until internal temp of brisket reaches 205* F. 
+3. At 90 minutes of total cook time, spritz the plate of ribs.
+4. Continue spritzing every 15 minutres until internal temp of plate of ribs reaches 205* F. 
 
 ### Rest
 1. Pull wrapped pan once plate of ribs reaches 205* internal temperature.
