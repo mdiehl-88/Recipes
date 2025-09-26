@@ -63,7 +63,18 @@ I've been asked to pull together a list of my favorite items to pull together a 
 - Parrot Bay
 - Cruzan
 
-# Misc.
+## Misc.
 - Ole Smoky Tennessee Moonshine Cherries
 - Ole Smoky Pineapples with Pina Colada Moonshine
 - Ole Smoky Tennessee Moonshine Apple Pie
+
+# Mixers
+- Daily's Margarita Mix
+- Daily's Strawberry Mix
+- Daily's Pina Colada Mix
+- Daily's Sour Mix
+- Lime Juice
+- Grenadine
+- Pineapple Juice
+- Cranberry Juice
+- Tonic Water
