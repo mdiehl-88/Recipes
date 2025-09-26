@@ -18,7 +18,6 @@ I've been asked to pull together a list of my favorite items to pull together a 
 - Woodford Reserve
 
 ## American Whiskey
-- Seagram's 7
 - Traveller Whiskey
 
 ## Rye Whiskey
@@ -28,6 +27,10 @@ I've been asked to pull together a list of my favorite items to pull together a 
 - Bulleit Rye
 - Woodford Reserve Rye
 - Knob Creek Rye
+
+## Canadian Whiskey
+- Crown Royal
+- Seagram's 7
 
 ## Scotch
 - Macallan 12
