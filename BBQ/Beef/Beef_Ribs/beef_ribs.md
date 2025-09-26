@@ -2,7 +2,7 @@
 
 ## Ingredients
 - 1 plate of beef ribs
-- Favorite Rub
+- Favorite Rub (I usually use SPG or my brisket rub)
 - Spritz (optional)
 
 ## Method
