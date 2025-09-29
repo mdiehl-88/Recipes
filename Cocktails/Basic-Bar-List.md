@@ -1,7 +1,8 @@
-# Introduction
+# Basic Bar List
+## Introduction
 I've been asked to pull together a list of my favorite items to pull together a good list of items to keep in your bar to help make your adult beverage consumption enjoyable. Here is a list of items that I strongly recommend keeping on hand.
 
-# Tools
+## Tools
 - Boston Shaker (I have better luck with this style since some of the cheaper shakers get stuck when cold)
 - Strainer
 - Bar spoon
@@ -9,18 +10,18 @@ I've been asked to pull together a list of my favorite items to pull together a 
 - Rocks glasses
 - Highball glasses
 
-# Spirits
-## Bourbon
+## Spirits
+### Bourbon
 - Jim Beam (White Label)
 - Jim Beam (Black Label)
 - Basil Hayden
 - Buffalo Trace
 - Woodford Reserve
 
-## American Whiskey
+### American Whiskey
 - Traveller Whiskey
 
-## Rye Whiskey
+### Rye Whiskey
 - Templeton Rye
 - Basil Hayden Dark Rye
 - Redemption Rye
@@ -28,40 +29,40 @@ I've been asked to pull together a list of my favorite items to pull together a 
 - Woodford Reserve Rye
 - Knob Creek Rye
 
-## Canadian Whiskey
+### Canadian Whiskey
 - Crown Royal
 - Seagram's 7
 
-## Scotch
+### Scotch
 - Macallan 12
 - The Glenlivet 12
 - Glenfiddich 12
 - Johnnie Walker Blue Label
 
-# Tequila
+### Tequila
 - Hornito's Blanco
 - Hornito's Reposado
 - El Jimador Blanco
 
-# Vodka
+### Vodka
 - Valentine Vokda
 - Ketel One
 - Belvedere
 - Kirkland Vodka
 
-# Gin
+### Gin
 - Hendricks
 - Bombay Sapphire
 
-# Rum
-## Light
+### Rum
+#### Light
 - Bacardi Superior
-## Dark
+#### Dark
 - Myers's
 - Bacardi Reserva 8 year
-## Spiced
+#### Spiced
 - Captain Morgan
-## Flavored
+#### Flavored
 - Largo Bay
 - Parrot Bay
 - Cruzan
@@ -71,7 +72,7 @@ I've been asked to pull together a list of my favorite items to pull together a 
 - Ole Smoky Pineapples with Pina Colada Moonshine
 - Ole Smoky Tennessee Moonshine Apple Pie
 
-# Mixers
+## Mixers
 - Daily's Margarita Mix
 - Daily's Strawberry Mix
 - Daily's Pina Colada Mix
