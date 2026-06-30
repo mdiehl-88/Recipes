@@ -4,6 +4,7 @@
 __MACOSX/
 .AppleDouble
 .LSOverride
+.DS_Store
 Icon[
 ]
 
@@ -28,7 +29,7 @@ Icon[
 lost+found
 .HFS+ Private Directory Data[
 ]
-.DS_Store
+
 
 # Directories potentially created on remote AFP share
 .AppleDB
